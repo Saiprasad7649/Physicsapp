@@ -1,0 +1,192 @@
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\appsettings.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.staticwebassets.runtime.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.staticwebassets.endpoints.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.exe
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.deps.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.runtimeconfig.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.dll
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.pdb
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.AssemblyInfoInputs.cache
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.AssemblyInfo.cs
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.csproj.CoreCompileInputs.cache
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.RazorAssemblyInfo.cache
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.RazorAssemblyInfo.cs
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\scopedcss\bundle\PhysicsVSC.styles.css
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\scopedcss\projectbundle\PhysicsVSC.bundle.scp.css
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\ip6puudj8y-b9sayid5wm.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\colgx5vjmg-61n19gt1b8.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\xlyyji8dcg-xtxxf3hu2r.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\6lggt6j4j5-bqjiyaj88i.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\vy4xbp23r0-c2jlpeoesf.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\h4124uuvby-erw9l3u2r3.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\6cg0megf2m-aexeepp0ev.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\31eg62l0l2-d7shbmvgxk.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\hq4ehhmbbw-ausgxo2sd3.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\lq4bxpw6di-k8d9w2qqmf.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\9a7w9lpowf-cosvhxvwiu.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\e71pt6chib-ub07r2b239.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\bc59yxovsl-fvhpjtyr6v.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\9mdf8uf4n7-b7pk76d08c.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\xgihoikp92-fsbi9cje9m.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\fwgbo1aic7-rzd6atqjts.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\8bbp3g69ox-ee0r1s7dh0.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\om7omvtadz-dxx9fxp4il.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\6ino3n4r02-jd9uben2k1.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\xm3y32pcvi-khv3u5hwcm.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\dr40qjvk7m-r4e9w2rdcm.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\w6siwtp99f-lcd1t2u6c8.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\aanx2y8j8t-c2oey78nd0.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\qz3mx55wgc-tdbxkamptv.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\xafgt8n9cc-j5mq2jizvt.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\bfapvodq0w-06098lyss8.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\4yyshkgjte-nvvlpmu67g.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\sbuepq4oc7-s35ty4nyc5.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\iq9593imk4-pj5nd1wqec.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\neg4kkeo96-46ein0sx1k.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\plzd68jcs3-v0zj4ognzu.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\fzmok6r62q-37tfw0ft22.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\4dyr2fpbix-hrwsygsryq.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\e2u4jidd1a-pk9g2wxc8p.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\fxfjaq4kun-ft3s53vfgj.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\9yctzs3nvm-6cfz1n2cew.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\29saik845o-6pdc2jztkx.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\p7fobestqv-493y06b0oq.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\zql7fdbdge-iovd86k7lj.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\dv1gu1awoe-vr1egmr9el.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\syw0d053h0-kbrnm935zg.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\9tzsaxyc86-jj8uyg4cgr.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\mxiaap6cfz-y7v9cxd14o.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\tmy93cwzei-notf2xhcfb.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\4tymhunzb2-h1s4sie4z3.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\1sejasgp1b-63fj8s7r0e.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\gyqt21axux-0j3bgjxly4.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\nua9n36zo4-47otxtyo56.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\kdnwcz7q8s-4v8eqarkd7.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\x2gpxttlo7-356vix0kms.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\lgu5qukf4u-83jwlth58m.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\1efqvak5lf-mrlpezrjn3.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\e1fvzkrtho-lzl9nlhx6b.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\x5e31o1ce4-ag7o75518u.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\u4e3mp049i-x0q3zqp4vz.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\7xq3ixa93x-0i3buxo5is.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\1b5anr9yre-o1o13a6vjx.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\irrmj2pqqi-ttgo8qnofa.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\rdjnzfkem1-2z0ns9nrw6.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\tbq2nzjx6x-muycvpuwrr.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\wmjy1ngimr-87fc7y1x7t.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\dh7g1tanqc-mlv21k5csn.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\7rctlw9ji7-m0exkpg8mt.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\compressed\gnoqmpg564-m0exkpg8mt.gz
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.dll
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\refint\PhysicsVSC.dll
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.pdb
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.genruntimeconfig.cache
+C:\Users\heman\OneDrive\Desktop\Sharan\bannu\PhysicsVSC\obj\Debug\net9.0\ref\PhysicsVSC.dll
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\appsettings.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.staticwebassets.runtime.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.staticwebassets.endpoints.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.exe
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.deps.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.runtimeconfig.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.dll
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\bin\Debug\net9.0\PhysicsVSC.pdb
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.AssemblyInfoInputs.cache
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.AssemblyInfo.cs
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.csproj.CoreCompileInputs.cache
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.RazorAssemblyInfo.cache
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.RazorAssemblyInfo.cs
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\scopedcss\bundle\PhysicsVSC.styles.css
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\scopedcss\projectbundle\PhysicsVSC.bundle.scp.css
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\ip6puudj8y-b9sayid5wm.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\colgx5vjmg-61n19gt1b8.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\xlyyji8dcg-xtxxf3hu2r.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\6lggt6j4j5-bqjiyaj88i.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\vy4xbp23r0-c2jlpeoesf.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\h4124uuvby-erw9l3u2r3.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\6cg0megf2m-aexeepp0ev.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\31eg62l0l2-d7shbmvgxk.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\hq4ehhmbbw-ausgxo2sd3.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\lq4bxpw6di-k8d9w2qqmf.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\9a7w9lpowf-cosvhxvwiu.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\e71pt6chib-ub07r2b239.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\bc59yxovsl-fvhpjtyr6v.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\9mdf8uf4n7-b7pk76d08c.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\xgihoikp92-fsbi9cje9m.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\fwgbo1aic7-rzd6atqjts.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\8bbp3g69ox-ee0r1s7dh0.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\om7omvtadz-dxx9fxp4il.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\6ino3n4r02-jd9uben2k1.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\xm3y32pcvi-khv3u5hwcm.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\dr40qjvk7m-r4e9w2rdcm.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\w6siwtp99f-lcd1t2u6c8.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\aanx2y8j8t-c2oey78nd0.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\qz3mx55wgc-tdbxkamptv.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\xafgt8n9cc-j5mq2jizvt.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\bfapvodq0w-06098lyss8.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\4yyshkgjte-nvvlpmu67g.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\sbuepq4oc7-s35ty4nyc5.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\iq9593imk4-pj5nd1wqec.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\neg4kkeo96-46ein0sx1k.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\plzd68jcs3-v0zj4ognzu.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\fzmok6r62q-37tfw0ft22.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\4dyr2fpbix-hrwsygsryq.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\e2u4jidd1a-pk9g2wxc8p.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\fxfjaq4kun-ft3s53vfgj.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\9yctzs3nvm-6cfz1n2cew.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\29saik845o-6pdc2jztkx.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\p7fobestqv-493y06b0oq.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\zql7fdbdge-iovd86k7lj.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\dv1gu1awoe-vr1egmr9el.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\syw0d053h0-kbrnm935zg.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\9tzsaxyc86-jj8uyg4cgr.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\mxiaap6cfz-y7v9cxd14o.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\tmy93cwzei-notf2xhcfb.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\4tymhunzb2-h1s4sie4z3.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\1sejasgp1b-63fj8s7r0e.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\gyqt21axux-0j3bgjxly4.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\nua9n36zo4-47otxtyo56.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\kdnwcz7q8s-4v8eqarkd7.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\x2gpxttlo7-356vix0kms.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\lgu5qukf4u-83jwlth58m.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\1efqvak5lf-mrlpezrjn3.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\e1fvzkrtho-lzl9nlhx6b.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\x5e31o1ce4-ag7o75518u.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\u4e3mp049i-x0q3zqp4vz.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\7xq3ixa93x-0i3buxo5is.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\1b5anr9yre-o1o13a6vjx.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\irrmj2pqqi-ttgo8qnofa.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\rdjnzfkem1-2z0ns9nrw6.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\tbq2nzjx6x-muycvpuwrr.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\wmjy1ngimr-87fc7y1x7t.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\dh7g1tanqc-mlv21k5csn.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\7rctlw9ji7-m0exkpg8mt.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\compressed\gnoqmpg564-m0exkpg8mt.gz
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.dll
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\refint\PhysicsVSC.dll
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.pdb
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\PhysicsVSC.genruntimeconfig.cache
+C:\Users\saipr\OneDrive\Desktop\physics application\PhysicsVSC\obj\Debug\net9.0\ref\PhysicsVSC.dll

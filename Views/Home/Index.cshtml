@@ -1,0 +1,53 @@
+﻿@model PhysicsVSC.Models.KinematicsModel
+
+@{
+    ViewData["Title"] = "Physics Calculator";
+}
+
+<div class="container mt-5">
+    <div class="card shadow">
+        <div class="card-body">
+            <h3 class="card-title text-primary mb-4">Kinematic Equation for Constant Acceleration</h3>
+
+            <form asp-action="Index" method="post">
+                <!-- ✅ Form-level validation summary -->
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="InitialVelocity" class="form-label"></label>
+                    <input asp-for="InitialVelocity" class="form-control" />
+                    <span asp-validation-for="InitialVelocity" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Acceleration" class="form-label"></label>
+                    <input asp-for="Acceleration" class="form-control" />
+                    <span asp-validation-for="Acceleration" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Time" class="form-label"></label>
+                    <input asp-for="Time" class="form-control" />
+                    <span asp-validation-for="Time" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-primary">Calculate</button>
+                    <a asp-action="Index" class="btn btn-secondary">Clear</a>
+                </div>
+
+                @if (Model != null && Model.FinalVelocity.HasValue)
+                {
+                    <div class="alert alert-success mt-4">
+                        <strong>Final Velocity:</strong> @Model.FinalVelocity m/s
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <!-- This is CRUCIAL -->
+    <partial name="_ValidationScriptsPartial" />
+}
